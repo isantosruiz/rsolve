@@ -1,4 +1,4 @@
-# rsolve - Difference equation solver
+# rsolve - Difference Equation Solver
 
 A MATLAB function for automatically solving linear difference equations using the Z-transform method.
 
