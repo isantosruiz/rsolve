@@ -39,4 +39,5 @@ function sol = rsolve(eq, fun, ic)
 %   sol = rsolve(eq, f(n), ic)
 %
 % AUTHOR: Ildeberto de los Santos Ruiz
-% REQUIRES: Symbolic Math Toolbox```
+% REQUIRES: Symbolic Math Toolbox
+
